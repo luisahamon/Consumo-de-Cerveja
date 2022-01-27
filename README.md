@@ -1,5 +1,6 @@
 # Consumo-de-Cerveja
-#Modelo de Regressão Linear que tenta prever o consumo diário de cerveja na cidade de São Paulo com base nas variáveis
+
+#Modelo de Regressão Linear que tenta prever o consumo diário de cerveja na cidade de São Paulo com base nos aspectos:
 *Tempe  minima
 *Temperatura média
 *Temperatura máxima
