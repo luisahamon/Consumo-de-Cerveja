@@ -16,7 +16,7 @@
 
 -O consumo aumenta conforme aumenta a temperatura máxima do dia, no entanto não aumenta tanto com os acréscimos em temperatura média e temperatura  mínima (+64,27%, +57,46% e  +39,25%  por grau a mais na temperatura)
 
--Depois da temperatura máxima a variável que mais afeta o consumo se é ou não fim de semana(+50,6 %)
+-Depois da temperatura máxima e da temperatura média a variável que mais afeta o consumo é se é ou não fim de semana(+50,6 %)
 
 -Por outro lado a chuva tende a diminuir o consumo (-19,38% por mm de chuva)
 
