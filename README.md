@@ -14,8 +14,10 @@
 
 #Com base nessas variáveis podemos prever o consumo, e por consequência a venda de bebidas alcoólicas na cidade e tirar conclusões como:
 
--O consumo aumenta conforme aumenta a temperatura máxima do dia, no entanto não aumenta tanto com os acréscimos em temperatura média e temperatura  mínima (+64,27%, +57,46% e  +39,25%  por grau a mais na temperatur)
+-O consumo aumenta conforme aumenta a temperatura máxima do dia, no entanto não aumenta tanto com os acréscimos em temperatura média e temperatura  mínima (+64,27%, +57,46% e  +39,25%  por grau a mais na temperatura)
 
 -Depois da temperatura máxima a variável que mais afeta o consumo se é ou não fim de semana(+50,6 %)
 
--Por outro lado a chuva tende a diminuir o consumo (-19,38% por mm de chuva )
+-Por outro lado a chuva tende a diminuir o consumo (-19,38% por mm de chuva)
+
+Com isso podemos pensar como estratégia de negócio o aumento da produção nos meses mais quentes e a diminuição nos meses frios e chuvosos
